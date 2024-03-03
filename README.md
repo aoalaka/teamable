@@ -1,6 +1,6 @@
 # teamable
 
-This is an app to manage employees profiles
+This is an app to manage employees user profiles
 
 ### To run the test, execute
 
